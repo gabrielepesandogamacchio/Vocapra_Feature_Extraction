@@ -1,2 +1,4 @@
 /Dataset_V2_official_classes/
 .DS_Store
+*.h5
+*.bz2
